@@ -1,0 +1,15 @@
+/Users/arseniy/RiderProjects/CSHW2/p18-19/obj/Debug/net5.0/p18-19.csproj.AssemblyReference.cache
+/Users/arseniy/RiderProjects/CSHW2/p18-19/obj/Debug/net5.0/p18-19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arseniy/RiderProjects/CSHW2/p18-19/obj/Debug/net5.0/p18-19.AssemblyInfoInputs.cache
+/Users/arseniy/RiderProjects/CSHW2/p18-19/obj/Debug/net5.0/p18-19.AssemblyInfo.cs
+/Users/arseniy/RiderProjects/CSHW2/p18-19/obj/Debug/net5.0/p18-19.csproj.CoreCompileInputs.cache
+/Users/arseniy/RiderProjects/CSHW2/p18-19/bin/Debug/net5.0/p18-19.deps.json
+/Users/arseniy/RiderProjects/CSHW2/p18-19/bin/Debug/net5.0/p18-19.runtimeconfig.json
+/Users/arseniy/RiderProjects/CSHW2/p18-19/bin/Debug/net5.0/p18-19.runtimeconfig.dev.json
+/Users/arseniy/RiderProjects/CSHW2/p18-19/bin/Debug/net5.0/p18-19.dll
+/Users/arseniy/RiderProjects/CSHW2/p18-19/bin/Debug/net5.0/ref/p18-19.dll
+/Users/arseniy/RiderProjects/CSHW2/p18-19/bin/Debug/net5.0/p18-19.pdb
+/Users/arseniy/RiderProjects/CSHW2/p18-19/obj/Debug/net5.0/p18-19.dll
+/Users/arseniy/RiderProjects/CSHW2/p18-19/obj/Debug/net5.0/ref/p18-19.dll
+/Users/arseniy/RiderProjects/CSHW2/p18-19/obj/Debug/net5.0/p18-19.pdb
+/Users/arseniy/RiderProjects/CSHW2/p18-19/obj/Debug/net5.0/p18-19.genruntimeconfig.cache

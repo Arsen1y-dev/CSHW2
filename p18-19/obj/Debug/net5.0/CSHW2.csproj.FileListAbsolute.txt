@@ -1,0 +1,15 @@
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/obj/Debug/net5.0/CSHW2.csproj.AssemblyReference.cache
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/obj/Debug/net5.0/CSHW2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/obj/Debug/net5.0/CSHW2.AssemblyInfoInputs.cache
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/obj/Debug/net5.0/CSHW2.AssemblyInfo.cs
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/obj/Debug/net5.0/CSHW2.csproj.CoreCompileInputs.cache
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/bin/Debug/net5.0/CSHW2.deps.json
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/bin/Debug/net5.0/CSHW2.runtimeconfig.json
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/bin/Debug/net5.0/CSHW2.runtimeconfig.dev.json
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/bin/Debug/net5.0/CSHW2.dll
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/bin/Debug/net5.0/ref/CSHW2.dll
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/bin/Debug/net5.0/CSHW2.pdb
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/obj/Debug/net5.0/CSHW2.dll
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/obj/Debug/net5.0/ref/CSHW2.dll
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/obj/Debug/net5.0/CSHW2.pdb
+/Users/arseniy/RiderProjects/CSHW2/CSHW2/obj/Debug/net5.0/CSHW2.genruntimeconfig.cache
