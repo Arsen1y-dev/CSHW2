@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KgG0154wj+8=",
+  "success": true,
+  "projectFilePath": "/Users/arseniy/Downloads/SSU.ThreeLayer - ser 3/SSU.ThreeLayer.Entities/SSU.ThreeLayer.Entities.csproj",
+  "expectedPackageFiles": [
+    "/Users/arseniy/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

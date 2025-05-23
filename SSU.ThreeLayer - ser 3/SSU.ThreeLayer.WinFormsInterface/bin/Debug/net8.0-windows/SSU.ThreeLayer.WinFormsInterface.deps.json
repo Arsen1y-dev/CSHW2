@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SSU.ThreeLayer.WinFormsInterface/1.0.0": {
+        "dependencies": {
+          "SSU.ThreeLayer.BLL": "1.0.0",
+          "SSU.ThreeLayer.Common": "1.0.0",
+          "SSU.ThreeLayer.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SSU.ThreeLayer.WinFormsInterface.dll": {}
+        }
+      },
+      "SSU.ThreeLayer.BLL/1.0.0": {
+        "dependencies": {
+          "SSU.ThreeLayer.DAL": "1.0.0",
+          "SSU.ThreeLayer.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SSU.ThreeLayer.BLL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SSU.ThreeLayer.Common/1.0.0": {
+        "dependencies": {
+          "SSU.ThreeLayer.BLL": "1.0.0",
+          "SSU.ThreeLayer.DAL": "1.0.0"
+        },
+        "runtime": {
+          "SSU.ThreeLayer.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SSU.ThreeLayer.DAL/1.0.0": {
+        "dependencies": {
+          "SSU.ThreeLayer.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SSU.ThreeLayer.DAL.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SSU.ThreeLayer.Entities/1.0.0": {
+        "runtime": {
+          "SSU.ThreeLayer.Entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SSU.ThreeLayer.WinFormsInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSU.ThreeLayer.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSU.ThreeLayer.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSU.ThreeLayer.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSU.ThreeLayer.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/arseniy/RiderProjects/CSHW2/graph2/bin/Debug/net5.0/graph2.deps.json
+/Users/arseniy/RiderProjects/CSHW2/graph2/bin/Debug/net5.0/graph2.runtimeconfig.json
+/Users/arseniy/RiderProjects/CSHW2/graph2/bin/Debug/net5.0/graph2.runtimeconfig.dev.json
+/Users/arseniy/RiderProjects/CSHW2/graph2/bin/Debug/net5.0/graph2.dll
+/Users/arseniy/RiderProjects/CSHW2/graph2/bin/Debug/net5.0/ref/graph2.dll
+/Users/arseniy/RiderProjects/CSHW2/graph2/bin/Debug/net5.0/graph2.pdb
+/Users/arseniy/RiderProjects/CSHW2/graph2/obj/Debug/net5.0/graph2.csproj.AssemblyReference.cache
+/Users/arseniy/RiderProjects/CSHW2/graph2/obj/Debug/net5.0/graph2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arseniy/RiderProjects/CSHW2/graph2/obj/Debug/net5.0/graph2.AssemblyInfoInputs.cache
+/Users/arseniy/RiderProjects/CSHW2/graph2/obj/Debug/net5.0/graph2.AssemblyInfo.cs
+/Users/arseniy/RiderProjects/CSHW2/graph2/obj/Debug/net5.0/graph2.csproj.CoreCompileInputs.cache
+/Users/arseniy/RiderProjects/CSHW2/graph2/obj/Debug/net5.0/graph2.dll
+/Users/arseniy/RiderProjects/CSHW2/graph2/obj/Debug/net5.0/ref/graph2.dll
+/Users/arseniy/RiderProjects/CSHW2/graph2/obj/Debug/net5.0/graph2.pdb
+/Users/arseniy/RiderProjects/CSHW2/graph2/obj/Debug/net5.0/graph2.genruntimeconfig.cache

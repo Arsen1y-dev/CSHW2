@@ -1,0 +1,161 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "SSU.ThreeLayer.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "SSU.ThreeLayer.DAL": "1.0.0",
+          "SSU.ThreeLayer.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SSU.ThreeLayer.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SSU.ThreeLayer.BLL.dll": {}
+        }
+      },
+      "SSU.ThreeLayer.Common/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "SSU.ThreeLayer.BLL": "1.0.0",
+          "SSU.ThreeLayer.DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SSU.ThreeLayer.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SSU.ThreeLayer.Common.dll": {}
+        }
+      },
+      "SSU.ThreeLayer.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "SSU.ThreeLayer.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SSU.ThreeLayer.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SSU.ThreeLayer.DAL.dll": {}
+        }
+      },
+      "SSU.ThreeLayer.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SSU.ThreeLayer.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SSU.ThreeLayer.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SSU.ThreeLayer.BLL/1.0.0": {
+      "type": "project",
+      "path": "../SSU.ThreeLayer.BLL/SSU.ThreeLayer.BLL.csproj",
+      "msbuildProject": "../SSU.ThreeLayer.BLL/SSU.ThreeLayer.BLL.csproj"
+    },
+    "SSU.ThreeLayer.Common/1.0.0": {
+      "type": "project",
+      "path": "../SSU.ThreeLayer.Common/SSU.ThreeLayer.Common.csproj",
+      "msbuildProject": "../SSU.ThreeLayer.Common/SSU.ThreeLayer.Common.csproj"
+    },
+    "SSU.ThreeLayer.DAL/1.0.0": {
+      "type": "project",
+      "path": "../SSU.ThreeLayer.DAL/SSU.ThreeLayer.DAL.csproj",
+      "msbuildProject": "../SSU.ThreeLayer.DAL/SSU.ThreeLayer.DAL.csproj"
+    },
+    "SSU.ThreeLayer.Entities/1.0.0": {
+      "type": "project",
+      "path": "../SSU.ThreeLayer.Entities/SSU.ThreeLayer.Entities.csproj",
+      "msbuildProject": "../SSU.ThreeLayer.Entities/SSU.ThreeLayer.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "SSU.ThreeLayer.BLL >= 1.0.0",
+      "SSU.ThreeLayer.Common >= 1.0.0",
+      "SSU.ThreeLayer.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/arseniy/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/arseniy/Downloads/SSU.ThreeLayer - ser 3/WinFormsAppSSU/WinFormsAppSSU.csproj",
+      "projectName": "WinFormsAppSSU",
+      "projectPath": "/Users/arseniy/Downloads/SSU.ThreeLayer - ser 3/WinFormsAppSSU/WinFormsAppSSU.csproj",
+      "packagesPath": "/Users/arseniy/.nuget/packages/",
+      "outputPath": "/Users/arseniy/Downloads/SSU.ThreeLayer - ser 3/WinFormsAppSSU/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/arseniy/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "/Users/arseniy/Downloads/SSU.ThreeLayer - ser 3/SSU.ThreeLayer.BLL/SSU.ThreeLayer.BLL.csproj": {
+              "projectPath": "/Users/arseniy/Downloads/SSU.ThreeLayer - ser 3/SSU.ThreeLayer.BLL/SSU.ThreeLayer.BLL.csproj"
+            },
+            "/Users/arseniy/Downloads/SSU.ThreeLayer - ser 3/SSU.ThreeLayer.Common/SSU.ThreeLayer.Common.csproj": {
+              "projectPath": "/Users/arseniy/Downloads/SSU.ThreeLayer - ser 3/SSU.ThreeLayer.Common/SSU.ThreeLayer.Common.csproj"
+            },
+            "/Users/arseniy/Downloads/SSU.ThreeLayer - ser 3/SSU.ThreeLayer.Entities/SSU.ThreeLayer.Entities.csproj": {
+              "projectPath": "/Users/arseniy/Downloads/SSU.ThreeLayer - ser 3/SSU.ThreeLayer.Entities/SSU.ThreeLayer.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

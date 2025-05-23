@@ -1,0 +1,79 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormsAppSSU/1.0.0": {
+        "dependencies": {
+          "SSU.ThreeLayer.BLL": "1.0.0",
+          "SSU.ThreeLayer.Common": "1.0.0",
+          "SSU.ThreeLayer.Entities": "1.0.0"
+        },
+        "runtime": {
+          "WinFormsAppSSU.dll": {}
+        }
+      },
+      "SSU.ThreeLayer.BLL/1.0.0": {
+        "dependencies": {
+          "SSU.ThreeLayer.DAL": "1.0.0",
+          "SSU.ThreeLayer.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SSU.ThreeLayer.BLL.dll": {}
+        }
+      },
+      "SSU.ThreeLayer.Common/1.0.0": {
+        "dependencies": {
+          "SSU.ThreeLayer.BLL": "1.0.0",
+          "SSU.ThreeLayer.DAL": "1.0.0"
+        },
+        "runtime": {
+          "SSU.ThreeLayer.Common.dll": {}
+        }
+      },
+      "SSU.ThreeLayer.DAL/1.0.0": {
+        "dependencies": {
+          "SSU.ThreeLayer.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SSU.ThreeLayer.DAL.dll": {}
+        }
+      },
+      "SSU.ThreeLayer.Entities/1.0.0": {
+        "runtime": {
+          "SSU.ThreeLayer.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsAppSSU/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSU.ThreeLayer.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSU.ThreeLayer.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSU.ThreeLayer.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SSU.ThreeLayer.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
