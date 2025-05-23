@@ -26,7 +26,7 @@ namespace CSHW2._18_19.Presentation
 
         static void Main(string[] args)
         {
-            string serializationFileName = "dataX.dat";
+            string serializationFileName = "data+.dat";
             List<Figure> figures = new List<Figure>();
             BinaryFormatter formatter = new BinaryFormatter();
             bool fileExists = File.Exists(serializationFileName) && new FileInfo(serializationFileName).Length > 0;

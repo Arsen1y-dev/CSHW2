@@ -1,0 +1,15 @@
+/Users/arseniy/RiderProjects/CSHW2/22/bin/Debug/net5.0/22.deps.json
+/Users/arseniy/RiderProjects/CSHW2/22/bin/Debug/net5.0/22.runtimeconfig.json
+/Users/arseniy/RiderProjects/CSHW2/22/bin/Debug/net5.0/22.runtimeconfig.dev.json
+/Users/arseniy/RiderProjects/CSHW2/22/bin/Debug/net5.0/22.dll
+/Users/arseniy/RiderProjects/CSHW2/22/bin/Debug/net5.0/ref/22.dll
+/Users/arseniy/RiderProjects/CSHW2/22/bin/Debug/net5.0/22.pdb
+/Users/arseniy/RiderProjects/CSHW2/22/obj/Debug/net5.0/22.csproj.AssemblyReference.cache
+/Users/arseniy/RiderProjects/CSHW2/22/obj/Debug/net5.0/22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arseniy/RiderProjects/CSHW2/22/obj/Debug/net5.0/22.AssemblyInfoInputs.cache
+/Users/arseniy/RiderProjects/CSHW2/22/obj/Debug/net5.0/22.AssemblyInfo.cs
+/Users/arseniy/RiderProjects/CSHW2/22/obj/Debug/net5.0/22.csproj.CoreCompileInputs.cache
+/Users/arseniy/RiderProjects/CSHW2/22/obj/Debug/net5.0/22.dll
+/Users/arseniy/RiderProjects/CSHW2/22/obj/Debug/net5.0/ref/22.dll
+/Users/arseniy/RiderProjects/CSHW2/22/obj/Debug/net5.0/22.pdb
+/Users/arseniy/RiderProjects/CSHW2/22/obj/Debug/net5.0/22.genruntimeconfig.cache

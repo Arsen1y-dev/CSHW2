@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22", "22\22.csproj", "{6420B358-F666-4BBE-A75E-4A79812D865D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graph2", "graph2\graph2.csproj", "{A0656D45-D3F1-49E4-8FAE-427E5CC5644F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{6420B358-F666-4BBE-A75E-4A79812D865D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6420B358-F666-4BBE-A75E-4A79812D865D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6420B358-F666-4BBE-A75E-4A79812D865D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0656D45-D3F1-49E4-8FAE-427E5CC5644F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0656D45-D3F1-49E4-8FAE-427E5CC5644F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0656D45-D3F1-49E4-8FAE-427E5CC5644F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0656D45-D3F1-49E4-8FAE-427E5CC5644F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

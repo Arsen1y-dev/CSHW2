@@ -4,41 +4,21 @@ using System.Collections.Generic;
 
 namespace _22
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            try
-            {
-                Graph g = new Graph("/Users/arseniy/RiderProjects/CSHW2/22/input22_1.txt");
-                using (StreamWriter writer = new StreamWriter("output.txt"))
-                {
-                    writer.WriteLine("\nЗаходящие соседние вершины:");
-                    g.IncomingVertices(0, writer);
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Ошибка: {ex.Message}");
-            }
-        }
-    }
-
     public class Graph
     {
-        private class Node
+        private class Node 
         {
-            private int[,] array;
-            public int this[int i, int j]
+            private int[,] array; //матрица смежности
+            public int this[int i, int j] //индексатор для обращения к матрице смежности
             {
                 get { return array[i, j]; }
                 set { array[i, j] = value; }
             }
-            public int Size
+            public int Size //свойство для получения размерности матрицы смежности
             {
                 get { return array.GetLength(0); }
             }
-            public Node(int[,] a)
+            public Node(int[,] a) //конструктор вложенного класса, инициализирует матрицу смежности и вспомогательный массив
             {
                 array = a;
             }
@@ -68,31 +48,49 @@ namespace _22
         
         public void IncomingVertices(int v, StreamWriter writer = null)
         {
-            string header = $"Заходящие вершины для вершины {v}:";
-            Console.WriteLine(header);
-            writer?.WriteLine(header);
+            Console.WriteLine($"Заходящие вершины для вершины {v}:");
 
             bool hasIncoming = false;
             for (int u = 0; u < graph.Size; u++)
             {
                 if (graph[u, v] != 0)
                 {
-                    string output = $"{u} ";
-                    Console.Write(output);
-                    writer?.Write(output);
+                    Console.Write($"{u} ");
                     hasIncoming = true;
                 }
             }
             if (!hasIncoming)
             {
                 Console.WriteLine("Нет заходящих вершин.");
-                writer?.WriteLine("Нет заходящих вершин.");
+                
             }
             else
             {
                 Console.WriteLine();
-                writer?.WriteLine();
+            }
+        }
+
+        class Program
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                Graph g = new Graph("/Users/arseniy/RiderProjects/CSHW2/22/input22_1.txt");
+                using (StreamWriter writer = new StreamWriter("/Users/arseniy/RiderProjects/CSHW2/22/output.txt"))
+                {
+                    writer.WriteLine("\nЗаходящие соседние вершины:");
+                    g.IncomingVertices(2, writer); // 0
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Ошибка: {ex.Message}");
             }
         }
     }
+    }
 }
+
+
+ 

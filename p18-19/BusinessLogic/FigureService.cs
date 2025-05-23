@@ -1,4 +1,3 @@
-// BusinessLogic/FigureService.cs
 using System;
 using System.Collections.Generic;
 using CSHW2._18_19.Models;

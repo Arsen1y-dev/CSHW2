@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0AYJVmeLlMI=",
+  "dgSpecHash": "+FmGwlXB34o=",
   "success": true,
   "projectFilePath": "/Users/arseniy/RiderProjects/CSHW2/20/20.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/arseniy/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/arseniy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
